@@ -1,0 +1,17 @@
+.app-body {
+  position: relative;
+}
+
+.app-form {
+  position: absolute;
+  top: 90px;
+  left: 35%;
+}
+
+.app-text{
+  position: absolute;
+  top: 45px;
+  left: 35%;
+  font-size: 30px;
+  font-weight: bold;
+}
